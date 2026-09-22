@@ -32,3 +32,15 @@ Implements a graph-based system for managing and analysing connections between u
 ## Notes
 
 These implementations focus on applying core data structure concepts to real-world-style problems, with an emphasis on correct algorithm design over interface or presentation.
+
+## Developer
+
+**Kayla Abdul Ganie**
+
+BSc Information Technology – Software Engineering  
+
+Eduvos
+
+GitHub: [@kayla014](https://github.com/kayla014)
+kayla014 - Overview
+BSc IT (Software Engineering) Student at Eduvos | Software Engineering Student - kayla014
