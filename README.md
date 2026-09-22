@@ -1,5 +1,6 @@
-# Data-Structures-and-Algorithms-Python-
-Python implementations of a Task Scheduling System using heaps and a Social Media Connections Manager using graphs
+# Data Structures and Algorithms — Python
+
+Python implementations of two data structure problems: a task scheduling system using heaps, and a social media connections manager using graphs.
 
 ## Overview
 
@@ -16,6 +17,16 @@ Implements a priority-based task scheduler using a heap data structure, allowing
 Implements a graph-based system for managing and analysing connections between users, similar to a simplified social network structure.
 
 **File:** `ITDPA Question 2 Social Media Manager.ipynb`
+
+## Screenshots
+
+**Task Scheduler — Console Output**
+![Task Scheduler Output](screenshots/task_scheduler_output.png)
+Console menu showing task creation, priority-based retrieval, and saving/loading tasks to file.
+
+**Social Media Manager — Connection Graph**
+![Social Media Manager Graph](screenshots/social_media_graph.png)
+Graph visualisation showing user connections, with Alison connected to both Randy and Richard.
 
 ## Tech Stack
 
