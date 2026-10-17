@@ -50,8 +50,6 @@ These implementations focus on applying core data structure concepts to real-wor
 
 BSc Information Technology – Software Engineering  
 
-Eduvos
-
 GitHub: [@kayla014](https://github.com/kayla014)
 kayla014 - Overview
-BSc IT (Software Engineering) Student at Eduvos | Software Engineering Student - kayla014
+BSc IT (Software Engineering) | Software Engineering Student - kayla014
